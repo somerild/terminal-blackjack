@@ -1,2 +1,2 @@
-from the command line
-java -jar C:\....full file path
+from the command line type:
+java -jar C:\full filepath
